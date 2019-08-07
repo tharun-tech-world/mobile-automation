@@ -64,7 +64,7 @@ public class Testclass {
 	
 	@Test
 	public void sampleTest() {
-		System.out.println("Im Working.....");
+		System.out.println("Im Working...");
 	}
 	
 }
